@@ -11,7 +11,7 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Ruben Pacheco Caldera",
+  username: "Rubén Pacheco Caldera",
   title: "Hey there, I'm Rubén",
   subTitle: emoji(
     "A passionate Software Engineer 🚀💻 experienced in building APIs with Go / Python / NodeJS and some other cool libraries and frameworks."
@@ -36,7 +36,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "Curious developer and tinker at heart who wants to explore every tech stack",
+  subTitle: "Curious developer and tinkerer at heart who wants to explore every tech stack",
   skills: [
     emoji(
       "⚡ Design scalable, fault-tolerant architectures"
@@ -119,7 +119,7 @@ const educationInfo = {
     {
       schoolName: "Pomona College",
       logo: require("./assets/images/pomonalogo.jpeg"),
-      subHeader: "Bachelor of Science in Computer Science",
+      subHeader: "Bachelor of Arts in Computer Science",
       duration: "September 2017 - May 2021",
       desc: "Took courses in:",
       descBullets: ["Machine Learning","Neural Networks", "Data Structures", "Operating Systems", "Databases", "and more"]
@@ -202,7 +202,7 @@ const openSource = {
 
 const bigProjects = {
   title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  subtitle: "Startups and companies I've helped create",
   projects: [
     {
       image: require("./assets/images/YoodliLogo.png"),
